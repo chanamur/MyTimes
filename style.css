@@ -6,6 +6,8 @@ header {
   border-bottom: 1px solid black;
   align-items: center;
   justify-content: space-between;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
 header a {
@@ -24,7 +26,6 @@ header a {
 
 nav {
   justify-content: space-around;
-
 }
 
 .navitems {
