@@ -17,8 +17,5 @@
 
 #nav {
   justify-content: flex-end;
-}
-
-.navitems {
-  display: inline-block;
+  display: inline-flex;
 }
