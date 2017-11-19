@@ -1,21 +1,26 @@
-.header {
+header {
   display: flex;
   font-family: Verdana;
   font-size: 14px;
   font-weight: bold;
   border-bottom: 1px solid black;
   align-items: center;
+  justify-content: space-between;
 }
 
-.header a {
+header a {
   color: black;
+}
+
+#logo {
+  display: inline-flex;
+  align-items: center;
 }
 
 #maintitle{
   color: MediumAquamarine;
 }
 
-#nav {
-  justify-content: flex-end;
+nav {
   display: inline-flex;
 }
