@@ -4,6 +4,7 @@
   font-size: 14px;
   font-weight: bold;
   border-bottom: 1px solid black;
+  align-items: center;
 }
 
 .header a {
@@ -14,6 +15,10 @@
   color: MediumAquamarine;
 }
 
-.nav {
+#nav {
+  justify-content: flex-end;
+}
+
+.navitems {
   display: inline-block;
 }
