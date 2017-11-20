@@ -34,7 +34,7 @@ nav {
 
 #maindiv {
   border: 1px solid black;
-  display: flex;
+  display: inline-flex;
 }
 
 #column1 {
@@ -48,12 +48,14 @@ nav {
   width: 300px;
   border: 1px solid black;
   display: flex;
+  flex-direction: column;
 }
 
 #column3 {
   width: 240px;
   border: 1px solid black;
   display: flex;
+  flex-direction: column;
 }
 
 .square1 {
