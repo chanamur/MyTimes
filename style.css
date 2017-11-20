@@ -32,6 +32,22 @@ nav {
   padding: 10px;
 }
 
-.maindiv {
+#maindiv {
   border: 1px solid black;
+  display: flex;
+}
+
+#column1 {
+  width: 630px;
+  display: flex;
+}
+
+#column2 {
+  width: 300px;
+  display: flex;
+}
+
+#column3 {
+  width: 240px;
+  display: flex;
 }
