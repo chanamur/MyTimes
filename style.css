@@ -85,3 +85,15 @@ main {
 #glasses {
   background-image: url(resources/img-story-main.png);
 }
+
+#girl {
+  background-image: url(resources/img-story-2.png);
+}
+
+#camera {
+  background-image: url(resources/img-story-3.png);
+}
+
+#cat {
+  background-image: url(resources/img-story-1.png);
+}
