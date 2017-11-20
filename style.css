@@ -33,8 +33,11 @@ nav {
 }
 
 #maindiv {
+  width: 1300px;
   border: 1px solid black;
   display: inline-flex;
+  justify-content: flex-start;
+  padding-top: 30px;
 }
 
 #column1 {
@@ -49,6 +52,7 @@ nav {
   border: 1px solid black;
   display: flex;
   flex-direction: column;
+  margin: 0 30px;
 }
 
 #column3 {
