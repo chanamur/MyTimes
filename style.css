@@ -6,8 +6,6 @@ header {
   border-bottom: 1px solid black;
   align-items: center;
   justify-content: space-between;
-  padding-left: 30px;
-  padding-right: 30px;
 }
 
 header a {
@@ -21,97 +19,40 @@ header a {
 
 #maintitle{
   color: MediumAquamarine;
-  padding: 10px;
 }
 
 nav {
-  justify-content: space-around;
+  display: inline-flex;
 }
 
 .navitems {
   padding: 10px;
 }
 
-main {
+.border1 {
+  border: 1px solid black;
+}
+
+#content {
   display: flex;
   justify-content: center;
 }
 
-main p {
-  font-family: Georgia;
-  font-size: 17px;
-  color: black;
-}
-
-#maindiv {
-  width: 1300px;
-  border: 1px solid black;
-  display: inline-flex;
-  justify-content: flex-start;
-  padding-top: 30px;
-}
-
 #column1 {
   width: 630px;
-  border: 1px solid black;
   display: flex;
   flex-direction: column;
 }
 
 #column2 {
   width: 300px;
-  border: 1px solid black;
   display: flex;
   flex-direction: column;
-  margin: 0 30px;
+  margin: 0px 30px;
 }
 
 #column3 {
   width: 240px;
-  border: 1px solid black;
   display: flex;
   flex-direction: column;
-}
-
-.square1 {
-  border: 1px solid black;
-}
-
-.square2 {
-  border: 2px solid black;
-}
-
-.title1 {
-  font-family: Georgia;
-  font-weight: bold;
-  font-size: 30px;
-  color: white;
-}
-
-#glasses {
-  background-image: url(resources/img-story-main.png);
-  display: flex;
-  width: 629px;
-  height: 300px;
-}
-
-#girl {
-  display: flex;
-  background-image: url(resources/img-story-2.png);
-  width: 629px;
-  height: 300px;
-}
-
-#camera {
-  background-image: url(resources/img-story-3.png);
-  display: flex;
-  width: 629px;
-  height: 300px;
-}
-
-#cat {
-  background-image: url(resources/img-story-1.png);
-  display: flex;
-  width: 300px;
-  height: 300px;
 }
