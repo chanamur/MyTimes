@@ -31,3 +31,7 @@ nav {
 .navitems {
   padding: 10px;
 }
+
+.maindiv {
+  border: 1px solid black;
+}
