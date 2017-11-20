@@ -74,3 +74,14 @@ main {
 .square2 {
   border: 2px solid black;
 }
+
+.title1 {
+  font-family: Georgia;
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+}
+
+#glasses {
+  background-image: url(resources/img-story-main.png);
+}
