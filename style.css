@@ -32,6 +32,11 @@ nav {
   padding: 10px;
 }
 
+main {
+  display: flex;
+  justify-content: center;
+}
+
 #maindiv {
   width: 1300px;
   border: 1px solid black;
