@@ -37,6 +37,12 @@ main {
   justify-content: center;
 }
 
+main p {
+  font-family: Georgia;
+  font-size: 17px;
+  color: black;
+}
+
 #maindiv {
   width: 1300px;
   border: 1px solid black;
