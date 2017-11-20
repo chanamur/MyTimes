@@ -56,6 +56,10 @@ nav {
   display: flex;
 }
 
-#column1 div {
+.square1 {
   border: 1px solid black;
+}
+
+.square2 {
+  border: 2px solid black;
 }
