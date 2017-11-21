@@ -87,3 +87,9 @@ nav {
   font-size: 30px;
   color: white;
 }
+
+#content p {
+  font-family: Georgia;
+  font-size: 17px;
+  color: black;
+}
