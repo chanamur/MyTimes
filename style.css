@@ -59,7 +59,6 @@ nav {
 
 #phish {
   background-image: url("resources/img-story-main.png");
-  width: 629px;
   height: 300px;
   display: flex;
 }
@@ -67,20 +66,17 @@ nav {
 #earth {
   display: flex;
   background-image: url("resources/img-story-2.png");
-  width: 299px;
   height: 300px;
 }
 
 #camera {
   display: flex;
   background-image: url("resources/img-story-3.png");
-  width: 299px;
   height: 300px;
 }
 
 #cat {
   display: flex;
   background-image: url("resources/img-story-1.png");
-  width: 299px;
   height: 300px;
 }
