@@ -36,14 +36,17 @@ a {
   display: flex;
 }
 
-.column1{
+.content.column1 {
   display: flex;
+  width: 630px;
 }
 
-.column2{
+.content.column2 {
   display: flex;
+  width: 300px;
 }
 
-.column3{
+.content.column3 {
   display: flex;
+  width: 240px;
 }
