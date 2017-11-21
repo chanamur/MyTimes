@@ -31,22 +31,3 @@ a {
 .border1 {
   border: 1px solid black;
 }
-
-.content {
-  display: flex;
-}
-
-.content.column1 {
-  display: flex;
-  width: 630px;
-}
-
-.content.column2 {
-  display: flex;
-  width: 300px;
-}
-
-.content.column3 {
-  display: flex;
-  width: 240px;
-}
