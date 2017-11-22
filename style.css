@@ -40,6 +40,7 @@ a {
   width: 1400px;
   margin: 0 auto;
   justify-content: flex-start;
+  padding-top: 40px;
 }
 
 .column1 {
@@ -62,21 +63,25 @@ a {
 }
 
 #phish {
+  display: flex;
   background-image: url(resources/img-story-main.png);
   height: 300px;
 }
 
 #earth {
+  display: flex;
   background-image: url(resources/img-story-2.png);
   height: 300px;
 }
 
 #camera {
+  display: flex;
   background-image: url(resources/img-story-3.png);
   height: 300px;
 }
 
 #cat {
+  display: flex;
   background-image: url(resources/img-story-1.png);
   height: 300px;
 }
