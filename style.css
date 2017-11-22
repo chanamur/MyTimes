@@ -31,3 +31,19 @@ a {
 .border1 {
   border: 1px solid black;
 }
+
+.main {
+  display: flex;
+}
+
+.column1 {
+  display: flex;
+}
+
+.column2 {
+  display: flex;
+}
+
+.column3 {
+  display: flex;
+}
