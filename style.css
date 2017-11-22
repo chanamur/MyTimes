@@ -43,10 +43,21 @@ a {
   padding-top: 40px;
 }
 
+.story {
+  display: flex;
+  flex-direction: column;
+}
+
+.stack {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
+
 .column1 {
   display: flex;
   width: 630px;
-  flex-direction: column;
+  flex-flow: row wrap;
 }
 
 .column2 {
@@ -75,6 +86,10 @@ a {
   color: black;
 }
 
+
+
+
+
 #phish {
   display: flex;
   background-image: url(resources/img-story-main.png);
@@ -95,6 +110,7 @@ a {
   display: flex;
   background-image: url(resources/img-story-3.png);
   height: 300px;
+
 }
 
 #cat {
