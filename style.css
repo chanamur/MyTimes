@@ -46,6 +46,7 @@ a {
 .story {
   display: flex;
   flex-direction: column;
+  padding-bottom: 30px;
 }
 
 .stack {
@@ -58,6 +59,7 @@ a {
   display: flex;
   width: 630px;
   flex-flow: row wrap;
+  justify-content: space-between;
 }
 
 .column2 {
@@ -110,7 +112,6 @@ a {
   display: flex;
   background-image: url(resources/img-story-3.png);
   height: 300px;
-
 }
 
 #cat {
