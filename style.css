@@ -30,10 +30,12 @@ a {
 
 
 
+
+
+
 .border1 {
   border: 1px solid black;
 }
-
 
 .main {
   display: flex;
@@ -80,6 +82,7 @@ a {
   font-weight: bold;
   font-size: 30px;
   color: white;
+  justify-content: center;
 }
 
 .text {
