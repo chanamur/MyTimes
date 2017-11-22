@@ -62,10 +62,27 @@ a {
   flex-direction: column;
 }
 
+.headlines {
+  font-family: Georgia;
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+}
+
+.text {
+  font-family: Georgia;
+  font-size: 17px;
+  color: black;
+}
+
 #phish {
   display: flex;
   background-image: url(resources/img-story-main.png);
   height: 300px;
+  font-family: Georgia;
+  font-weight: bold;
+  font-size: 40px;
+  color: white;
 }
 
 #earth {
