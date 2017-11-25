@@ -21,10 +21,15 @@ header {
   color: MediumAquamarine;
   align-items: center;
   display: inline-flex;
+  padding-left: 30px;
 }
 
 #logo p {
   padding: 10px;
+}
+
+#nav {
+  padding-right: 30px;
 }
 
 #nav li {
