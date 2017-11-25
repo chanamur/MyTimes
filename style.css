@@ -44,17 +44,22 @@ a {
 /* -- Main Section --*/
 
 .border1 {
+  display: flex;
   border: 1px solid black;
+  justify-content: center;
+  align-items: center;
+
 }
 
-h2 {
+.sup {
   font-size: 33px;
-  align-content: flex-start;
+  font-weight: bold;
+  padding-bottom: 15px;
 }
 
 .main {
   display: flex;
-  width: 1300px;
+  width: 1250px;
   margin: 0 auto;
   justify-content: space-between;
   padding-top: 40px;
@@ -67,7 +72,6 @@ h2 {
   flex-direction: column;
   padding-bottom: 30px;
 }
-
 
 .stack {
   display: flex;
@@ -109,7 +113,6 @@ h2 {
   font-size: 17px;
   color: black;
 }
-
 
 .bites {
   display: flex;
