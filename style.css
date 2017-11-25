@@ -132,6 +132,8 @@ a {
   font-size: 40px;
   color: white;
   margin-bottom: 15px;
+  align-items: center;
+  padding-left: 20px;
 }
 
 #earth {
