@@ -1,3 +1,5 @@
+/* -- Header Section --*/
+
 header {
   font-family: Verdana;
   font-size: 14px;
@@ -34,9 +36,7 @@ a {
   color: black;
 }
 
-
-
-
+/* -- Main Section --*/
 
 .main {
   display: flex;
@@ -119,8 +119,6 @@ a {
   margin-bottom: 40px;
 }
 
-
-
 #phish {
   display: flex;
   background-image: url(resources/img-story-main.png);
@@ -152,3 +150,6 @@ a {
   height: 300px;
   margin-bottom: 15px;
 }
+
+
+/* -- Footer Section --*/
